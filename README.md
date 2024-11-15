@@ -3,7 +3,7 @@
 
 ## Demo
 
-Check out the ([Multi PDF Chat on Streamlit Cloud][https://multipdfchat-nhf9qnz3cga476guuw2dtn.streamlit.app/]). Runs with Groq API.
+Check out the [Multi PDF Chat on Streamlit Cloud]([https://multipdfchat-nhf9qnz3cga476guuw2dtn.streamlit.app/]). Runs with Groq API.
 
 
 
