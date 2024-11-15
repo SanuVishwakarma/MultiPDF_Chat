@@ -3,7 +3,7 @@
 
 ## Demo
 
-Check out the [RagBase on Streamlit Cloud](https://ragbase.streamlit.app/). Runs with Groq API.
+Check out the [RagBase on Streamlit Cloud]([https://ragbase.streamlit.app/](https://multipdfchat-nhf9qnz3cga476guuw2dtn.streamlit.app/)). Runs with Groq API.
 
 
 
