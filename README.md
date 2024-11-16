@@ -9,9 +9,6 @@ https://github.com/user-attachments/assets/afe96643-0c10-4f6e-bf65-06a43adae9f7
 
 
 
-Check out the [Multi PDF Chat on Streamlit Cloud](https://multipdfchat-nhf9qnz3cga476guuw2dtn.streamlit.app/). Runs with Groq API.
-
-
 
 ### Ingestor
 
